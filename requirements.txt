@@ -1,1 +1,4 @@
 opencv-python>="4.0.0.21"
+pyzbar
+Pillow
+imutils
